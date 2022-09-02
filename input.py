@@ -5,3 +5,12 @@ age=input('enter your age:')
 animal=input('national animal of india:')
 
 print(name,college,city,age,animal)
+
+
+age=int(age,type(age))
+print(age,type(age))
+
+a=int(input('enter a number=>'))
+b=int(input('enter a number=>'))
+
+print(a+b)
