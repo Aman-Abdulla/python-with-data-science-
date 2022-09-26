@@ -81,3 +81,5 @@ print(*f.split(" "), sep='\n')
 
 
 
+
+
