@@ -60,3 +60,4 @@ def update():
     check_collision()
 
 pgzrun.go()
+
